@@ -1,2 +1,2 @@
 # KittenEdge.github.io
-a website idk man
+An unblocked games website that I am making for my friends at school :)
